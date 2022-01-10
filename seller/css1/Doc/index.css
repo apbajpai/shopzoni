@@ -1,0 +1,88 @@
+/* ::::: https://tools.google.com/dlpage/res/drive/css/drive-dlpage.css ::::: */
+
+/* ::::: https://tools.google.com/dlpage/res/drive/css/drive-base.css ::::: */
+
+/* ::::: https://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin&effect=smoothing ::::: */
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Open Sans"), local("OpenSans"), url('cjzkeoubrn4kerxqtauh3t8e0i7kzn-epnyo3hzu7kw.woff') format("woff");
+}
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 600;
+	src: local("Open Sans Semibold"), local("OpenSans-Semibold"), url('mtp_ysujh_bn48vbg8snsnhcuogz7vygh680lgh-uxm.woff') format("woff");
+}
+/* ::::: https://www.google.com/tools/dlpage/res/c/css/goog.css ::::: */
+
+html, body, div, h1, h2, h3, h4, h5, h6, p, img, dl, dt, dd, ol, ul, li, table, caption, tbody, tfoot, thead, tr, th, td, form, fieldset, embed, object, applet { margin: 0px; padding: 0px; border: 0px none; }
+body { font-size: 62.5%; font-family: Arial,sans-serif; color: rgb(0, 0, 0); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+a { color: rgb(0, 0, 204); }
+a:active { color: rgb(255, 0, 0); }
+a:visited { color: rgb(85, 26, 139); }
+ul { padding: 0px 0px 1em 1em; }
+li { line-height: 1.5em; padding: 0px 0px 0.5em; }
+p { padding: 0px 0px 1em; }
+h1, h2, h3, h4, h5 { padding: 0px 0px 1em; }
+h1, h2 { font-size: 1.3em; }
+input, select, textarea, option { font-family: inherit; font-size: inherit; }
+html { height: 100%; }
+html, body { margin: 0px; padding: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: 'Open Sans',arial,sans-serif; font-size: 13px; }
+a, a:visited { color: rgb(26, 72, 157); text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { border: 0px none; }
+strong { font-weight: 600; }
+#c-doc { width: 100%; }
+#c-child-doc { margin: 24px auto; padding: 0px 15px; width: 870px; }
+h1 { font-weight: 600; font-size: 22px; line-height: 30px; letter-spacing: -0.02em; margin: 0px 0px 10px; padding: 0px; }
+h2 { font-weight: 600; font-size: 18px; line-height: 24px; padding: 0px; margin: 0px 0px 10px; }
+strong { font-weight: 600; }
+body ol, body ul { padding-left: 3em; }
+body ol li, body ul li { line-height: 1.4em; }
+#c-header { background-color: rgb(245, 245, 245); border-bottom: 1px solid rgb(229, 229, 229); height: 45px; margin-bottom: 40px; padding: 17px 0px 5px; width: 100%; }
+#c-header-wrapper { margin: 0px auto; padding: 0px 10px; width: 870px; }
+#c-header #logo { float: left; min-width: 140px; }
+#c-header #cust_logo { color: rgb(145, 149, 156); font-size: 27px; font-weight: 300; position: absolute; text-decoration: none; text-shadow: 0px 1px 1px white; white-space: nowrap; }
+#c-header #cust_logo img { padding: 0px; position: relative; top: 2px; vertical-align: middle; }
+#cust_logo span.goog-inline-block { margin-top: 3px; vertical-align: middle; }
+#c-nav { float: left; list-style: none outside none; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-weight: 600; }
+#c-nav li { float: left; display: inline; margin-left: 26px; padding: 0px; line-height: 36px; }
+p#free { margin: 20px 0px; }
+#c-footer { clear: both; float: left; display: inline; width: 100%; border-top: 1px solid rgb(238, 238, 238); font-size: 12px; margin-top: 3em; padding: 1em 0px; color: rgb(119, 119, 119); text-align: center; }
+#c-footer p { padding: 0px 0px 0.4em; }
+#intro { margin-bottom: 0.5em; width: 530px; }
+#intro h1 { margin-bottom: 0.3em; }
+#intro p { font-size: 1.2em; color: rgb(102, 102, 102); }
+#jewel { width: 530px; }
+#main-content { float: right; width: 340px; margin: 0.6em 0px 4em; }
+#action { margin: 0px; }
+.c-button * { margin: 0px; padding: 0px; }
+.c-button { line-height: 1.2; overflow: visible; color: rgb(51, 51, 51); }
+.c-button div.button { background: url('c-button-basic-1.gif') no-repeat scroll 0% 0% rgb(11, 111, 212); margin-bottom: 0.3em; }
+.c-button div.button span { display: block; background: url('c-button-basic-1.gif') no-repeat scroll right -400px transparent; height: 1%; }
+.c-button div.button span span { background: url('c-button-basic-1.gif') no-repeat scroll left bottom transparent; }
+.c-button div.button span span a, .c-button div.button span span input { display: block; text-align: center; font-size: 1.4em; color: rgb(255, 255, 255) ! important; background: url('c-button-basic-2.gif') no-repeat scroll right bottom transparent; padding: 16px 8px 19px; text-decoration: none; font-weight: bold; text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2); }
+.c-button div.button span span input { border: 0px none; padding: 9px 18px 13px; display: inline; font-size: 1.1em; cursor: pointer; height: 44px; width: 100%; }
+.c-button div.button:hover span span a, .c-button div.button:hover span span input { box-shadow: 0px 5px 12px rgba(255, 255, 255, 0.25) inset; }
+.c-button p { padding: 0.4em 0px 0px; }
+#eula-overlay { background: -moz-radial-gradient(center 300px 45deg, circle farthest-side, rgb(51, 51, 51) 20%, rgb(0, 0, 0) 90%) repeat scroll 0% 0% rgb(0, 0, 0); position: fixed; display: none; top: 0px; left: 0px; width: 100%; height: 100%; opacity: 0.7; }
+.feature-list { margin-bottom: 1em; }
+#c-eula { position: absolute; top: 55px; width: 100%; }
+#eulabox { background: url('eula_drive_icon.png') no-repeat scroll right top rgb(255, 255, 255); color: rgb(51, 51, 51); padding: 25px; border: 1px solid rgb(34, 34, 34); width: 600px; margin: 0px auto; box-shadow: 0px 5px 40px rgba(0, 0, 0, 0.5); }
+#eulabox p, #tos p { clear: both; }
+#eulabox iframe, #tos iframe { width: 100%; height: 130px; border: 1px solid rgb(218, 218, 218); background: none repeat scroll 0% 0% rgb(242, 242, 242); overflow-x: hidden; box-shadow: 1px 2px 2px rgb(236, 236, 236) inset; }
+#statcb { float: left; }
+p.statusage { margin-top: 2px; padding-bottom: 0px; }
+label[for="statcb"] { margin-left: 20px; display: block; }
+.eula-action { clear: both; margin-top: 10px; height: 52px; }
+.eula-input { display: inline; float: right; }
+.eula-input.c-button { margin: 0px; }
+#accept { min-width: 150px; }
+#cancel { margin: 11px 20px; }
+#throbber { display: none; }
+#throbber span { display: block; width: 100%; }
+#throbber-img { display: block; margin: 6px auto; }
+

@@ -1,0 +1,257 @@
+@media all and (max-width: 1000px) and (min-width: 320px) {
+.mob_menu_hide{
+	display: none !important;
+}
+
+.dpage_align {
+    text-align: left!important;
+}
+
+.pro_shop_scroll{
+	 scroll-direction: horizontal;
+}
+
+.shop_page_top_margin{
+	margin-top: 0;
+}
+
+.top_gap_desk{
+	margin-top: 0px!important;
+}
+
+.view_order_list_top_margin{
+	margin-top: 0px!important;
+}
+
+.view_order_bottom{
+	border-top:#000 solid 3px; 
+	padding-bottom: 10px;
+}
+
+.product_page_top_margin{
+	margin-top: 100px;
+}
+
+.mob_cro_btn{
+	width:31px!important;
+}
+
+.owl-theme .owl-controls .owl-buttons div{
+	padding: 3px 20px!important;
+}
+
+.owl-theme .owl-controls .owl-buttons .owl-next{
+	/*top: 52px!important;*/
+}
+
+#owl-demo .item img{
+	height: 102px!important;
+}
+
+.online_use_phonee{
+	margin-top: 101px!important;
+}
+
+.mob_text_left{
+	text-align: left!important;
+}
+
+.Proceed_btn{
+	display: none;
+}
+
+.shop_cunt_input{
+	width: 134px !important;
+}
+
+
+.box_scroll{
+overflow-x: auto!important; 
+overflow-y: hidden!important; 
+white-space: nowrap!important; 
+-webkit-overflow-scrolling: touch!important;
+width:100%!important;
+margin-bottom: 20px!important;
+}
+
+.m-box_d{
+display:inline-block!important;
+width:40%!important;
+padding: 20px 20px!important;
+}
+
+.mob_head{
+	background-color: #000;
+	height: 47px;
+}
+
+.mob_logo{
+	padding: 10px 0;
+}
+
+.cart_align{
+	padding: 9px 0 0;
+}
+
+
+.clearm{
+	clear: both;
+}
+
+.bmenu{
+	width: 23%;
+	padding: 13px 0 0 0;
+}
+
+.product_saller_detail{
+	display: inline-block!important;
+	background-color: #fff;
+	border: 3px solid #ddd;
+}
+
+.sal_name{
+	vertical-align: middle;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: serif;
+    text-align: left;
+    border-top: 3px #652c3b solid;
+    /*padding: 20px 5px;
+	*/
+}
+
+.sal_des{
+	vertical-align: middle;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: serif;
+    text-align: center;
+    /*border-bottom: 1px #ddd solid;
+    padding: 20px 0px;*/
+}
+
+.sal_btn_box{
+    text-align: center;
+    /*border-bottom: 1px #ddd solid;*/
+    padding: 0px 0px;
+}
+
+.padding_l_r{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.mob__saller_box_hide{
+	display: none;
+}
+
+.shop_filter_prod{
+	padding: 17px!important;
+}
+
+.btn_list{
+	width: auto;
+}
+
+.vander_hidemobile{
+	display: none!important;
+}
+
+.vander_hideweb{
+	display: inline-block!important;
+}
+
+.page_header_height {
+    padding-top: 89px!important;
+}
+
+.brand_page_top_mr{
+	margin-top: 88px!important;
+}
+
+.mobile_header_top_margin{
+margin-top:126px!important;
+}
+
+.mob_top_margin{
+	margin-top: 101px;
+}
+
+.numberbrand{
+	margin-top: 90px;
+}
+
+
+}
+
+
+
+.product_saller_detail{
+	display: none;
+}
+
+
+
+
+.home_crow_head{
+	padding-top:0px!important;
+}
+
+.vander_hideweb{
+	display: none;
+}
+
+.cross{
+	font-size: 25px;
+}
+
+
+
+.btn_coust_home {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin: 11px 4px;
+}
+
+
+.brand_search_btnm {
+    background-image: linear-gradient(to right, #84214d, #622c62);
+    color: #fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    border-radius: 0px;
+}
+
+.top_src_bg{
+	/*background-color: #ddd;
+	z-index: 1000000;
+	position: absolute;
+	margin-top: 47px;
+	clear: both;
+	margin-bottom: 100px;*/
+}
+.shop_filter_prod{
+	padding: 30px;
+}
+
+.top_gap_desk{
+	margin-top: 138px
+}
+
+/*.banner_top_margin {
+    margin-top: 173px;
+}*/
+
+.product_page_top_margin{
+	margin-top: 175px;
+}
+
+
+.view_order_list_top_margin{
+	margin-top: 150px;
+}
+
+.shop_page_top_margin{
+	margin-top: 177px;
+}

@@ -1,0 +1,173 @@
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[22-May-2020 10:31:16 UTC] PHP Notice:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[22-May-2020 10:31:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[22-May-2020 10:31:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[22-May-2020 10:31:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[22-May-2020 10:31:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: breadcrumb in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 196
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: msg1 in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 210
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: msg2 in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 214
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: seller_val in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 252
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: seller in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 281
+[22-May-2020 10:31:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 281
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: sections in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 302
+[22-May-2020 10:31:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 302
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: category in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 322
+[22-May-2020 10:31:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 322
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: brands in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 342
+[22-May-2020 10:31:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 342
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: redirectURL in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 391
+[22-May-2020 10:31:16 UTC] PHP Notice:  Undefined variable: eid in /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php on line 393
+[11-Nov-2021 11:16:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[11-Nov-2021 11:16:15 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[11-Nov-2021 11:16:16 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[11-Nov-2021 11:16:16 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[11-Nov-2021 11:16:16 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[11-Nov-2021 11:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[18-Nov-2021 20:32:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[18-Nov-2021 20:32:34 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[18-Nov-2021 20:32:34 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[18-Nov-2021 20:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[10-Dec-2021 03:32:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[10-Dec-2021 03:32:34 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[10-Dec-2021 03:32:34 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[10-Dec-2021 03:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[13-Dec-2021 13:10:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[13-Dec-2021 13:10:04 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[13-Dec-2021 13:10:04 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[13-Dec-2021 13:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[30-Dec-2021 10:11:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[30-Dec-2021 10:11:09 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[30-Dec-2021 10:11:09 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[30-Dec-2021 10:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[30-Dec-2021 10:11:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[30-Dec-2021 10:11:19 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[30-Dec-2021 10:11:19 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[30-Dec-2021 10:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[30-Dec-2021 10:11:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[30-Dec-2021 10:11:23 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[30-Dec-2021 10:11:23 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[30-Dec-2021 10:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77
+[05-Jan-2022 02:29:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DB has a deprecated constructor in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 2
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_PRODUCT - assumed 'TBL_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 2
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_BRAND_PRODUCT - assumed 'TBL_BRAND_PRODUCT' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 3
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_SELLER - assumed 'TBL_SELLER' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 4
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_CATEGORY - assumed 'TBL_CATEGORY' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 5
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_SECTION - assumed 'TBL_SECTION' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 6
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_BRAND - assumed 'TBL_BRAND' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 7
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  Use of undefined constant TBL_EXCEL - assumed 'TBL_EXCEL' (this will throw an Error in a future version of PHP) in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/database.php on line 8
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 2
+[05-Jan-2022 02:29:30 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/configure.php on line 3
+[05-Jan-2022 02:29:30 UTC] PHP Notice:  Undefined property: DB::$persist in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 71
+[05-Jan-2022 02:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php:77
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php(50): DB->connect()
+#1 /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/top.php(23): DB->open()
+#2 /home/hostzoni/public_html/shopzoni.com/uploadexcel/index.php(3): include('/home/hostzoni/...')
+#3 {main}
+  thrown in /home/hostzoni/public_html/shopzoni.com/uploadexcel/includes/classes.php on line 77

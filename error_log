@@ -1,0 +1,570 @@
+[01-Dec-2020 18:31:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:31:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:39:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:39:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:39:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:39:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:39:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:41:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:41:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:41:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:41:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:41:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 18:45:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 19:00:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 19:35:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:00:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:19:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:21:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:27:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:43:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:43:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 20:44:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 21:18:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 22:00:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 22:00:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 22:05:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 22:05:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[01-Dec-2020 22:05:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:32:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:32:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:32:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:33:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:33:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:33:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:33:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:35:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:43:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:48:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:50:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 13:55:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 14:31:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 14:37:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 14:40:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 14:58:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 14:58:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:02:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:02:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:04:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:08:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:16:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:31:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:31:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:35:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:39:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:39:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:40:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91
+[02-Dec-2020 15:40:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/hostzoni/public_html/shopzoni.com/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/hostzoni/public_html/shopzoni.com/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home/hostzoni/public_html/shopzoni.com/application/models/seller_registration_model.php(9): MX_Loader->database()
+#4 /home/hostzoni/public_html/shopzoni.com/system/core/Loader.php(303): Seller_Registration_model->__construct()
+#5 /home/hostzoni/public_html/shopzoni.com/application/third_party/MX/Loader.php(195): CI_Loader->model('Seller_registra...', 'seller_registra...', false)
+#6 /home/hostzoni/public_html/shopzoni.com/application/controllers/index.php(17): MX_Loader->model('seller_registra...')
+#7 /home/hostzoni/public_html/shopzo in /home/hostzoni/public_html/shopzoni.com/system/database/drivers/mysql/mysql_driver.php on line 91

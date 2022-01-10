@@ -1,0 +1,3 @@
+database :- shopzoni
+db user :- shopzoni_user
+db password :- shopzoni@123

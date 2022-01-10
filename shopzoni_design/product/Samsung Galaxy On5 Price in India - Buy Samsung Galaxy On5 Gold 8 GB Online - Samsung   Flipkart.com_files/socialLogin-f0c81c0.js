@@ -1,0 +1,1 @@
+register_controller("FKSocialLoginCtrl",function(a){$.ajax({url:"/lc/flushsocialId",type:"POST",dataType:"html",success:function(b){},error:function(){}})});

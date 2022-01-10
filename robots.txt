@@ -1,0 +1,24 @@
+User-agent: *
+Disallow:  /admin/
+Disallow: /toc/
+Disallow: /sample-request/
+Disallow: /ask-for-customization/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /404/
+Disallow: /errors/
+Disallow: /search/
+Disallow: /thanks/
+Disallow: /thank-you/
+Disallow: /ask-for-customization/thank-you/
+Disallow: /sample-request/thank-you/
+Disallow: /request-sample/thank-you/
+
+# Secure Pages
+https://www.variantmarketresearch.com/cart/
+https://www.variantmarketresearch.com/checkout/
+
+Sitemap: https://www.variantmarketresearch.com/sitemap.xml
+
+User-agent: Alexabot
+Disallow:
